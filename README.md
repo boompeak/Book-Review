@@ -1,11 +1,6 @@
-폴더 구조) 이미지, 폰트와 같은 static 파일들은 public내에 담아주세요
-
-사용 라이브러리)
-redux
-react-redux
-styled-components
-react-router-dom
-react-query
-redux-toolkit
-
-yarn start이 안되면 알려주세요
+<useForm에 대한 사용>
+  1. validation이 편하고 submit도 편하다
+  
+<animation 관련 라이브러리의 사용>
+  1. three.js 등에 대한 흥미가 생겨 향후 공부하고자 한다.
+  
